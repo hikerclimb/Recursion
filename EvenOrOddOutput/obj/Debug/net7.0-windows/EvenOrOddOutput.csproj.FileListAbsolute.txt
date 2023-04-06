@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\obj\Debug\net7.0-windows\EvenOrOddOutput.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\obj\Debug\net7.0-windows\EvenOrOddOutput.Form1.resources
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\obj\Debug\net7.0-windows\EvenOrOddOutput.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\obj\Debug\net7.0-windows\EvenOrOddOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\obj\Debug\net7.0-windows\EvenOrOddOutput.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\obj\Debug\net7.0-windows\EvenOrOddOutput.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\obj\Debug\net7.0-windows\EvenOrOddOutput.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\bin\Debug\net7.0-windows\EvenOrOddOutput.exe
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\bin\Debug\net7.0-windows\EvenOrOddOutput.deps.json
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\bin\Debug\net7.0-windows\EvenOrOddOutput.runtimeconfig.json
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\bin\Debug\net7.0-windows\EvenOrOddOutput.dll
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\bin\Debug\net7.0-windows\EvenOrOddOutput.pdb
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\obj\Debug\net7.0-windows\EvenOrOddOutput.dll
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\obj\Debug\net7.0-windows\refint\EvenOrOddOutput.dll
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\obj\Debug\net7.0-windows\EvenOrOddOutput.pdb
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\obj\Debug\net7.0-windows\EvenOrOddOutput.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Recursion\EvenOrOddOutput\obj\Debug\net7.0-windows\ref\EvenOrOddOutput.dll

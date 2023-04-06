@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\bin\Debug\net7.0-windows\SumOfFirst10Numbers.exe
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\bin\Debug\net7.0-windows\SumOfFirst10Numbers.deps.json
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\bin\Debug\net7.0-windows\SumOfFirst10Numbers.runtimeconfig.json
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\bin\Debug\net7.0-windows\SumOfFirst10Numbers.dll
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\bin\Debug\net7.0-windows\SumOfFirst10Numbers.pdb
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\obj\Debug\net7.0-windows\SumOfFirst10Numbers.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\obj\Debug\net7.0-windows\SumOfFirst10Numbers.Form1.resources
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\obj\Debug\net7.0-windows\SumOfFirst10Numbers.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\obj\Debug\net7.0-windows\SumOfFirst10Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\obj\Debug\net7.0-windows\SumOfFirst10Numbers.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\obj\Debug\net7.0-windows\SumOfFirst10Numbers.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\obj\Debug\net7.0-windows\SumOfFirst10Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\obj\Debug\net7.0-windows\SumOfFirst10Numbers.dll
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\obj\Debug\net7.0-windows\refint\SumOfFirst10Numbers.dll
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\obj\Debug\net7.0-windows\SumOfFirst10Numbers.pdb
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\obj\Debug\net7.0-windows\SumOfFirst10Numbers.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Recursion\SumOfFirst10Numbers\obj\Debug\net7.0-windows\ref\SumOfFirst10Numbers.dll
