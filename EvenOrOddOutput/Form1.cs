@@ -1,3 +1,5 @@
+using static System.Runtime.InteropServices.JavaScript.JSType;
+
 namespace EvenOrOddOutput
 {
     public partial class Form1 : Form
@@ -9,11 +11,8 @@ namespace EvenOrOddOutput
 
         private void BtnEvenOrOdd_Click(object sender, EventArgs e)
         {
-            //for(int j = 0; j < 10;j++)
-            //{
-                MessageBox.Show(even(40).ToString());
-                MessageBox.Show(odd(20).ToString());
-            //}
+            MessageBox.Show(even(40).ToString());
+            MessageBox.Show(odd(20).ToString());
         }
 
 
@@ -21,38 +20,33 @@ namespace EvenOrOddOutput
         string oddoutput = "";
         private string even(int num)
         {
-            if(num == 0)
+            string result = "";
+            if (num == 0)
             {
-                return evenoutput;
+                return "";
             }
-            if(num %2 == 0)
+            if (num % 2 == 0)
             {
-                evenoutput = num.ToString() + " :";
-                return evenoutput + even(num -2);
+                result = num.ToString() + " ";
+
             }
-            else
-            {
-                even(num - 2);
-            }
-            return evenoutput;
+
+            return even(num - 1) + result;
         }
 
         private string odd(int num)
         {
-            if(num == 0)
+            string result = "";
+            if (num == 0)
             {
-                return oddoutput;
+                return "";
             }
             if (num % 2 == 1)
             {
-                oddoutput += num.ToString() + ":";
-                return odd(num - 1)+ oddoutput;
+                result = num.ToString() + " ";
+
             }
-            else
-            {
-                odd(num -1);
-            }
-            return oddoutput;
+            return odd(num - 1) + result;
         }
     }
 }
