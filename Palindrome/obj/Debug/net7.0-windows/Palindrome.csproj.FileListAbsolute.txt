@@ -1,0 +1,17 @@
+C:\Users\Aniket\Documents\Recursion\Palindrome\bin\Debug\net7.0-windows\Palindrome.exe
+C:\Users\Aniket\Documents\Recursion\Palindrome\bin\Debug\net7.0-windows\Palindrome.deps.json
+C:\Users\Aniket\Documents\Recursion\Palindrome\bin\Debug\net7.0-windows\Palindrome.runtimeconfig.json
+C:\Users\Aniket\Documents\Recursion\Palindrome\bin\Debug\net7.0-windows\Palindrome.dll
+C:\Users\Aniket\Documents\Recursion\Palindrome\bin\Debug\net7.0-windows\Palindrome.pdb
+C:\Users\Aniket\Documents\Recursion\Palindrome\obj\Debug\net7.0-windows\Palindrome.csproj.AssemblyReference.cache
+C:\Users\Aniket\Documents\Recursion\Palindrome\obj\Debug\net7.0-windows\Palindrome.Form1.resources
+C:\Users\Aniket\Documents\Recursion\Palindrome\obj\Debug\net7.0-windows\Palindrome.csproj.GenerateResource.cache
+C:\Users\Aniket\Documents\Recursion\Palindrome\obj\Debug\net7.0-windows\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket\Documents\Recursion\Palindrome\obj\Debug\net7.0-windows\Palindrome.AssemblyInfoInputs.cache
+C:\Users\Aniket\Documents\Recursion\Palindrome\obj\Debug\net7.0-windows\Palindrome.AssemblyInfo.cs
+C:\Users\Aniket\Documents\Recursion\Palindrome\obj\Debug\net7.0-windows\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\Documents\Recursion\Palindrome\obj\Debug\net7.0-windows\Palindrome.dll
+C:\Users\Aniket\Documents\Recursion\Palindrome\obj\Debug\net7.0-windows\refint\Palindrome.dll
+C:\Users\Aniket\Documents\Recursion\Palindrome\obj\Debug\net7.0-windows\Palindrome.pdb
+C:\Users\Aniket\Documents\Recursion\Palindrome\obj\Debug\net7.0-windows\Palindrome.genruntimeconfig.cache
+C:\Users\Aniket\Documents\Recursion\Palindrome\obj\Debug\net7.0-windows\ref\Palindrome.dll
